@@ -33,7 +33,7 @@ on for information on what is needed, and how to use it!
 
 # Prerequisites
 
-This script has a few requirements.
+This script has just a few requirements.
 
 To start, you need a compute environment!  This script is written for use with
 the [SLURM](http://slurm.schedmd.com) job scheduler.  It will not work
@@ -70,7 +70,7 @@ your `PATH` environment variable.  Here is an example:
 
 ## Running
 
-Pick a place for the files to live.  The script will download all of the FastQ
+Pick a place for the files to live.  The script will download all of the
 files into your chosen directory, so you might need to make a new directory to
 hold the files.  Also, make sure your chosen download location has enough room!
 
