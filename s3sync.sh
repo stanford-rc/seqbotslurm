@@ -25,7 +25,7 @@
 
 # Set how long you think the transfer will take.
 # This script will resubmit itself if needed
-#SBATCH --time=0:20:00
+#SBATCH --time=4:00:00
 
 # The AWS CLI does use multithreading for S3 operations.
 # So, you can give it multiple CPUs.
