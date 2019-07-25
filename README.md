@@ -107,7 +107,7 @@ After submission, you will (eventually) receive a number of emails from SLURM:
   that the download exceeded the four-hour time allocation.  The download has
   been paused, and the job re-queued for another four-hour allocation.
 
-* The last email will have "" in the subject line, telling you that your
+* The last email will have "TBD" in the subject line, telling you that your
   download is complete!
 
 At any time, you can run the following commands to check your job's status:
